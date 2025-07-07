@@ -1,7 +1,9 @@
 Netflix Data Analysis Dashboard
+
 This repository contains a Power BI dashboard for analyzing Netflix content, including shows and movies. The dashboard provides key insights into the Netflix catalog, popular ratings, content distribution by country, and trends over time.
 
 Overview
+
 The Netflix Data Analysis Dashboard is an interactive Power BI report designed to visualize various aspects of Netflix's content library. It allows users to explore data related to:
 
 Total Content: Number of shows and directors.
