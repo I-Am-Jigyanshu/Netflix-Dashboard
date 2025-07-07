@@ -1,4 +1,4 @@
-Here is a netflix dashboard created with the help of PowerBI.
+Here is a netflix dashboard created with the help of PowerBI 
 consisting of two excel records/files named netflix and amazon_tiles.
 
 Final result looks like this -->>>>
